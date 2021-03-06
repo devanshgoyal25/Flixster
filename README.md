@@ -21,6 +21,8 @@
 
 <img src="https://github.com/devanshgoyal25/Flixster/blob/master/Assignment2.gif" width=250><br>
 
+<img src="https://github.com/devanshgoyal25/Flixster/blob/master/Hnet-image.gif" width=250><br>
+
 ### Notes
 
 Had to use Tip#7 as my emulator API was 30
